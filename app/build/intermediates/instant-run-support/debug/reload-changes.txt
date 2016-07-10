@@ -1,0 +1,12 @@
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$menu$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$integer$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/MainActivity$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$style$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$styleable$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$id$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$string$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$layout$override.class
+CHANGED,/Users/fengxiaoping/Projects/schoolbus/client/BusDriverNav/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/zhongyianda/busdriver/R$mipmap$override.class
